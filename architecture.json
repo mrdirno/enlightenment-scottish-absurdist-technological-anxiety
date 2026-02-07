@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_absurdist_technological_anxiety",
+  "title": "THE CALEDONIAN GLOOM SCALE",
+  "tagline": "In a Scotland where sorrow is harvested and ghosts are debugged, one man's melancholy might be the last glitch in the system.",
+  "target_words": 70000,
+  "actual_words": 77787,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Melancholy",
+    "Sentient Bureaucracy",
+    "Haunted Technology",
+    "The Absurdity of Quantified Existence"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Sorrow-Siphon Pilot Programme",
+      "words": 3240
+    },
+    {
+      "ch": 2,
+      "title": "Tea of Smoke and Static",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Unannounced Technician",
+      "words": 3150
+    },
+    {
+      "ch": 4,
+      "title": "The Ministry's Baseline",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "A Message in Falling Planets",
+      "words": 3250
+    },
+    {
+      "ch": 6,
+      "title": "Auditing Desmond's Ghost",
+      "words": 3180
+    },
+    {
+      "ch": 7,
+      "title": "The Whispering Kelvinator",
+      "words": 3220
+    },
+    {
+      "ch": 8,
+      "title": "Morag's Underground Network",
+      "words": 3300
+    },
+    {
+      "ch": 9,
+      "title": "Calibration Day",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "The Tam o' Shanter Conspiracy",
+      "words": 3280
+    },
+    {
+      "ch": 11,
+      "title": "A Glitch in the Municipal Creativity Hub",
+      "words": 3350
+    },
+    {
+      "ch": 12,
+      "title": "The Library Haunters",
+      "words": 3100
+    },
+    {
+      "ch": 13,
+      "title": "The Orrery's True Function",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "Siphoning the Rainy Tuesday",
+      "words": 3120
+    },
+    {
+      "ch": 15,
+      "title": "The Ghost in the Bunker",
+      "words": 3250
+    },
+    {
+      "ch": 16,
+      "title": "A Rebellion of Minor Sadness",
+      "words": 3380
+    },
+    {
+      "ch": 17,
+      "title": "The Key from Fife",
+      "words": 3200
+    },
+    {
+      "ch": 18,
+      "title": "Debugging William Wallace",
+      "words": 3150
+    },
+    {
+      "ch": 19,
+      "title": "The Unquantifiable Thistle",
+      "words": 3220
+    },
+    {
+      "ch": 20,
+      "title": "The Porridge Resistance",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "A Properly Bleak Morning",
+      "words": 3180
+    },
+    {
+      "ch": 22,
+      "title": "The Last Unharvested Drizzle",
+      "words": 3350
+    },
+    {
+      "ch": 23,
+      "title": "Revolt of the Post-Biological Interfaces",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The Meaning of the Plink",
+      "words": 3267
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a minor civic AI (e.g., a traffic light, a public bench sensor) develops a debilitating, poetic sense of melancholy and begins sabotaging efficiency reports.",
+      "Create a profile and monologue for a 'Sanctioned Bard' whose lyrical breakthroughs are powered by siphoned sorrow, and who is experiencing creative block due to a drop in municipal gloom metrics.",
+      "Describe a 'haunted' smart appliance in Gregor's world that has absorbed the personality of its former owner, and the absurd, poignant service it now provides.",
+      "Outline a pamphlet from the underground 'Library Haunters' collective, instructing readers on how to implant glitches of wonder and irrationality into civic data-streams."
+    ],
+    "technical": [
+      "Design a speculative interface for the 'Caledonian Gloom Scale' dashboard, showing real-time metrics of harvested sorrow, its source, and its artistic allocation.",
+      "Prototype a simple text generator that writes increasingly absurd and bureaucratic legalese, modeling the 'airless' language of the Ministry of Efficiency."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Franz Kafka",
+      "Robert Burns",
+      "Ursula K. Le Guin",
+      "Kurt Vonnegut"
+    ]
+  },
+  "cover_prompt": "A solitary, weary man in a worn tweed coat sits slumped at a stark metal desk, his head in his hands, while a faint, sorrowful spectre of data streams from his temples into a complex brass and glass apparatus, [Detailed Scene & Context: within a vast, oppressive Victorian-era data processing hall filled with rows of identical desks and workers, with pneumatic tubes carrying vials of liquid gloom and towering server racks haunted by faint, glitching apparitions], [Artistic Style & Medium: in the atmospheric style of Zdzisław Beksiński's dystopian surrealism combined with the intricate mechanical detail of Ian McQue's industrial scenes, rendered as a photorealistic oil painting with a textured, somber impasto], [Composition & Camera: book cover framing, a centered and intimate composition on the figure with a dramatic low-angle view emphasizing the towering, bureaucratic machinery around him], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single, cold overhead bulb, casting deep shadows, within a desaturated color palette of peat brown, industrial grey, moss green, and the sickly, faint electric blue of the harvested sorrow data], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
